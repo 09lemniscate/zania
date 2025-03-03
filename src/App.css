@@ -40,6 +40,11 @@ td {
   padding: 12px 15px;
 }
 
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+
 .btn-download {
   color: #007bff;
   cursor: pointer;
